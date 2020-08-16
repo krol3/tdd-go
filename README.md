@@ -12,3 +12,6 @@ $ ginkgo bootstrap
 ```
 
 Create new unit test: `ginkgo generate `
+
+## Resources
+[Unit Testing with Ginkgo](https://medium.com/boldly-going/unit-testing-in-go-with-ginkgo-part-1-ce6ff06eb17f)
